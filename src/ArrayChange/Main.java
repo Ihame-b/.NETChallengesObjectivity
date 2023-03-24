@@ -1,3 +1,7 @@
+package ArrayChange;
+
+import ArrayChange.ArrayChallenge;
+
 import java.util.Arrays;
 
 public class Main {
